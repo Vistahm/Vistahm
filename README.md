@@ -6,5 +6,6 @@ a bunch of rocks and metals and build such a magnificent thing.
 I've been programming for a couple of years and I've worked with multiple languages including C, Java, Kotlin, Python and Go.
 My favorite language is C and I try to learn comupter hardware in low level by coding in it and building cool stuff. 
 
-If you like to reach out to me you can use my Telegram in my bio. Happy coding! 🖥
+If you like to reach out to me to talk about code and tech or anything else, feel free to shoot me a message in Telegram.
+The link is in my bio. Happy coding! 🖥
 ```
