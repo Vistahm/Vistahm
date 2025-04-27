@@ -1,5 +1,5 @@
 ```
-As far as I can remember, I've been spending the majority of my time behind the computer's display. 
+As far as I can remember, I've been spending the majority of my time with computers. 
 I love computers and I'm still amazed about the fact that we managed to apply some electricity into
 a bunch of rocks and metals and build such a magnificent thing. 
 
