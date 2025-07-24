@@ -7,6 +7,6 @@ I've been programming for a couple of years and I've worked with multiple langua
 My favorite language is C and I try to learn comupter hardware in low level by coding in it and building cool stuff.
 I also hate doing any sort of FrontEnd!
 
-If you like to reach out to me to talk about code and tech or anything else, feel free to shoot me a message in Telegram.
+If you like to reach out to me about code, feel free to shoot me a message in Telegram.
 The link is in my bio. Happy coding! 🖥
 ```
